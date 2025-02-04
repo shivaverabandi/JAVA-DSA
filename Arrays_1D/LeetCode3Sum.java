@@ -4,6 +4,13 @@ import java.util.*;
 //https://leetcode.com/problems/3sum/
 
 public class LeetCode3Sum{
+     /*
+    Brute Force Approach (O(N³))
+    1. Check ALL possible triplets using 3 nested loops
+    2. Use a Set to store unique triplets
+    3. Sort each valid triplet before adding to Set to avoid duplicates
+    4. Simple to understand but very slow for large inputs
+    */
     public List<List<Integer>> threeSum1(int[] nums){ // Brute force --> O(N^3)
         int n = nums.length;
         List<List<Integer>> ans;
@@ -23,6 +30,13 @@ public class LeetCode3Sum{
         ans = new ArrayList<>(set);
         return ans;
     }
+      /*
+    Better Approach (O(N²) Time, O(N) Space)
+    1. For each element, use a HashSet to track needed third value
+    2. For pair (nums[i], nums[j]), look for -(nums[i]+nums[j]) in HashSet
+    3. Sort valid triplets to avoid duplicates in Set
+    4. Faster than brute force but still uses extra space for tracking
+    */
     public List<List<Integer>> threeSum2(int[] nums){ // Better --> O(N^2)
         int n = nums.length;
         List<List<Integer>> ans;
@@ -42,6 +56,14 @@ public class LeetCode3Sum{
         ans = new ArrayList<>(set);
         return ans;
     }
+    /*
+    Optimized Two-Pointer Approach (O(N²) Time, O(1) Space)
+    1. Sort array first to enable two-pointer technique
+    2. For each element nums[i], find pairs (j,k) such that sum = 0
+    3. Use left/right pointers (j starts at i+1, k at end)
+    4. Skip duplicate elements to avoid repeated triplets
+    5. Most efficient solution with no extra space for Sets
+    */
     public List<List<Integer>> threeSum3(int[] nums) { // Optimized --> O(N^2) Two pointer Approach.
         Arrays.sort(nums);
         int n = nums.length;
