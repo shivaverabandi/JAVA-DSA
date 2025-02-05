@@ -33,7 +33,7 @@ public class QuickSort {
         int pivotIdx = mid; // Mid is the pivot index.
         int pivot = a[mid];
         while(start_Idx < end_Idx){
-            while ( start_Idx< high && a[start_Idx]<=pivot) {
+            while ( start_Idx< high && a[start_Idx]<=pivot) { // see these cases carefully, these are the building blocks of this algo.
                 start_Idx++;
             }
             while (end_Idx > low && a[end_Idx]>pivot){
