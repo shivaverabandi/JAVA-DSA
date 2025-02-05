@@ -43,18 +43,23 @@ public class QuickSort {
                 int temp = a[start_Idx];
                 a[start_Idx] = a[end_Idx];
                 a[end_Idx] = temp;
+                start_Idx++;
+                end_Idx--;
             }
         }
         // place pivot at it's position. so swap a[pivotIdx] with a[end_idx]
         int temp = a[end_Idx];
-        a[end_Idx] = a[pivotIdx]; // which is pivot;
+        a[end_Idx] = pivot; 
         a[pivotIdx] = temp;
-        
+        /*
+         * 1.swap the endIdx why? beacuse we check a[startIdx] <= pivot. So lesser than equal elements go left side.
+         * 2. if we use a[end_idx]>=pivot. Then return startIdx, beacuse greater than equal elements go right side.
+         */
         return end_Idx; // return pivot postion.
     }
 
     public static void main(String[] args) {
-        int a[] = {5,4,3,2,1,0};
+        int a[] = {2,-1,0,-3,8,2,5,-3,9,-10,-4,2,4,2,1};
         quickSort(a, 0, a.length-1);
         System.out.println(Arrays.toString(a));
     }
