@@ -33,6 +33,7 @@ public class AdjscentGraph {
         graph[2].add(new Edge(2, 0));
         graph[2].add(new Edge(2, 1));
     }
+    @SuppressWarnings("unchecked")
     public static void main(String[] args) {
         // here ArrayList type array is created.
         // Observe the usuall syntax of array is
