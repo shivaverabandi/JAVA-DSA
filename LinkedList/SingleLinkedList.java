@@ -11,10 +11,14 @@ class Node{
 }
 public class SingleLinkedList{
     
-    private static Node head;
+    private  Node head;
 
-    public void addAtFirst(int val){ // add at first of list O(1)
-        Node newNode = new Node(val); //created node with given value.
+    public  int size = 0;
+
+    public void addAtFirst(int val){
+        size++;  // add at first of list O(1)
+        Node newNode = new Node(val);//created node with given value.
+        
         if(head == null){
             head = newNode;
             return;
@@ -24,15 +28,21 @@ public class SingleLinkedList{
     }
 
     public Node delAtFirst(){ // delete at first of list O(1)
-        if(head == null || head.next == null){
+        if(head == null){
             return  null;
         }
+        else if(head.next == null){
+            size--;
+            return null;
+        }
+        size--;
         head = head.next;
         return head;
     }
 
     public void addAtLast(int val){ // O(N) for adding value at last
         Node newNode = new Node(val);
+        size++;
         if(head == null){ // edge case is if no node is present
             head = newNode;
             return;
@@ -47,9 +57,14 @@ public class SingleLinkedList{
     }
 
     public Node delAtLast(){ // O(N) for deleting at last
-        if(head == null || head.next == null){
+        if(head == null){
+            return null;
+        }else if(head.next == null){
+            size--;
             return null;
         }
+
+        size--;
         Node temp = head;
         Node prev = null;
         while(temp.next != null){
@@ -60,6 +75,55 @@ public class SingleLinkedList{
        
     }
 
+
+    public void inesrtAt(int pos, int val){ // Inset at given position(indexing start from 0) O(N)
+        Node newNode = new Node(val);
+        size++;
+        if(pos == 0){  // if insertion at first
+            newNode.next = head;
+            head = newNode;
+            return;
+        }
+
+        Node curr = head;
+        Node prev = null;
+        int i = 0;
+        while(i < pos && curr != null){
+            prev = curr;
+            curr = curr.next;
+            i++;
+        }
+        if(curr == null){
+            prev.next = newNode;
+        }else{
+            prev.next = newNode;
+            newNode.next = curr;
+        }
+    }
+
+    public Node delAt(int pos){
+        if(pos == size){ // 0 based indexing so at size we have null
+            return null;
+        }
+        size--;
+        if(pos == 0){
+            head = head.next;
+            return head;
+        }
+
+        Node curr = head;
+        Node prev = null;
+
+        int i = 0;
+        while(i<pos && curr != null){
+            prev = curr;
+            curr = curr.next;
+            i++;
+        }
+        prev.next = prev.next.next;
+        return head;
+        
+    }
     public void traversal(Node node){ // traversing list o(N)
 
         if(node == null){
@@ -79,19 +143,20 @@ public class SingleLinkedList{
     }
     public static void main(String []args){
         SingleLinkedList list = new SingleLinkedList();
-        head = new Node(1);
-        list.addAtFirst(2);
-        list.addAtFirst(3);
-        list.addAtFirst(4);
-        list.traversal(head);
-        list.delAtFirst();
-        list.traversal(head);
-        list.addAtLast(0);
-        list.addAtLast(1);
+
+        list.addAtFirst(1);
         list.addAtLast(2);
-        list.traversal(head);
-        list.delAtLast();
-        list.delAtLast();
-        list.traversal(head);
+        list.addAtLast(3);
+        list.addAtFirst(0);
+
+        list.inesrtAt(0, 23);
+        list.inesrtAt(3, 33);
+        list.inesrtAt(7, 44);
+
+        list.delAt(0);
+        list.delAt(3);
+        list.delAt(list.size);
+        list.traversal(list.head);
+        System.out.println(list.size);
     }
 }
