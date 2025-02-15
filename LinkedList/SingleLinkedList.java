@@ -31,6 +31,22 @@ public class SingleLinkedList{
         return head;
     }
 
+    public void addAtLast(int val){ // O(N) for adding value at last
+        Node newNode = new Node(val);
+        if(head == null){ // edge case is if no node is present
+            head = newNode;
+            return;
+        }
+
+        Node temp = head;
+        while(temp.next != null){
+            temp = temp.next;
+        }
+        temp.next = newNode;
+        return;
+    }
+
+
     public void traversal(Node node){ // traversing list o(N)
 
         if(node.next == null){
@@ -53,6 +69,9 @@ public class SingleLinkedList{
         list.traversal(head);
         list.delAtFirst();
         list.traversal(head);
-
+        list.addAtLast(0);
+        list.addAtLast(1);
+        list.addAtLast(2);
+        list.traversal(head);
     }
 }
