@@ -46,9 +46,26 @@ public class SingleLinkedList{
         return;
     }
 
+    public Node delAtLast(){ // O(N) for deleting at last
+        if(head == null || head.next == null){
+            return null;
+        }
+        Node temp = head;
+        Node prev = null;
+        while(temp.next != null){
+            prev = temp;
+            temp = temp.next;
+        }
+        return prev.next = null;
+       
+    }
 
     public void traversal(Node node){ // traversing list o(N)
 
+        if(node == null){
+            System.out.println("[] list is empty");
+            return;
+        }
         if(node.next == null){
             System.out.println(node.val);
             return;
@@ -72,6 +89,9 @@ public class SingleLinkedList{
         list.addAtLast(0);
         list.addAtLast(1);
         list.addAtLast(2);
+        list.traversal(head);
+        list.delAtLast();
+        list.delAtLast();
         list.traversal(head);
     }
 }
