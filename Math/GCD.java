@@ -13,7 +13,7 @@ public class GCD {
         return 1;
     }
 
-    static int findGCDOptimised(int a, int b){
+    static int findGCDOptimised(int a, int b){ // eucledian algorithm
 
         if(a > b){
             int temp = a;
