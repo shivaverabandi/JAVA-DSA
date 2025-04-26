@@ -12,14 +12,17 @@ public class BoxWeight extends Box {
 
     // Constructor to initialize both weight and price
     BoxWeight(int weight, int price){
+        super();
         this.price = price;
         this.weight = weight;
     }
 
     // Constructor to initialize length, width, height, and weight, calling the parent constructor
     BoxWeight(int len, int width, int height, int weight){
-        this.weight = weight;
         // Calling the parent class constructor with parameters (len, width, height)
         super(len, width, height); // Calls Box(int len, int width, int height)
+        this.weight = weight;
+
+
     }
 }

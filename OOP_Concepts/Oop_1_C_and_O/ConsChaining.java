@@ -10,10 +10,11 @@ public class ConsChaining {
         System.out.println(this); // why did not get error?
     }
     ConsChaining(int i, double d){
+       // super();
+        this(i,d,"shiva");
         //System.out.println(this); //--> If you uncomment & try this it gives you error... Ask yourself Why?
         this.i = i;
         this.d = d;
-        this(i,d,"shiva");
     }
     ConsChaining(int i , double d, String name){
         System.out.println(this); // Here not error why?.. Because the object created first here.
