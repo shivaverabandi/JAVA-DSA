@@ -7,7 +7,7 @@ interface A {
     * Constructors are not allowed interfaces.
     * Contain static and default methods form java 8 version to provide backward compatability
     * Static methods are used to use methods with interface name which makes use of methods,
-      after the loading of interface. Which makes to use methods after loading of interface.
+      after the loading of interface. This enables methods will invoke  with interface name without depending on classes.
     * static  methods in interfaces are public by default.
     * default methods are calling by using object. These are like non-static methods. Belongs to object.
     * */
@@ -42,7 +42,7 @@ public class PureAbstraction {
         obj.abstractMethod1();
         obj.abstractMethod2();
         A.staticMethod();
-        obj.abstractMethod1();
+        obj.nonStaticDefaultMethod();
         System.out.println(A.a);
     }
 }
