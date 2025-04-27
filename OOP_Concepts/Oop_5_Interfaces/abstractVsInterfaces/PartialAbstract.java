@@ -16,7 +16,6 @@ class Demo2 extends Demo1{
     /* 1. The class which is extending the abstract class should pass the
           value for the Abstract class constructor by using super().
        2. we can't create object directly for abstract classes. By using inner classes we can.
-       3.
     */
     public Demo2(int num){
         super(num);
