@@ -6,9 +6,9 @@ public class EnumEx {
 //ordinal:->  0     1         2         3       4      5        6
 
         WEEK(){
-            System.out.println("Enum Constructor "+ this);// --> This will internally creating when one constant is called then,
-        }                                                      // it call all other also
-        // Constructors in enums are private or defualt. COncept of enums is to create constant objects. SO we cant extends any classes.
+            System.out.println("Enum Constructor "+ this);// --> This will internally create when one constant is called then,
+        }                                                      // it calls all others also
+        // Constructors in enums are private or default. Concept of enums is to create constant objects. SO we cant extends any classes.
         // Enum cant be inherited, or can't be nested enum under enum.
 
         @Override // Only With interfaces

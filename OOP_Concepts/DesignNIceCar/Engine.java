@@ -7,6 +7,7 @@ public interface Engine {
     void start();
 
     default void method(){
+
         System.out.println("I am default method");
     }
 }
