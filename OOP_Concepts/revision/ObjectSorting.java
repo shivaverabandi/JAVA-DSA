@@ -72,11 +72,11 @@ public class ObjectSorting {
                         {6,2}
                       };
 
-        Arrays.sort(arr, Comparator.comparingInt(a -> a[1]));
+        Arrays.sort(arr, (a,b) -> Integer.compare(a[1],b[1]));
+
         for (int []a : arr){
             System.out.println(Arrays.toString(a));
         }
-
 
     }
 }
