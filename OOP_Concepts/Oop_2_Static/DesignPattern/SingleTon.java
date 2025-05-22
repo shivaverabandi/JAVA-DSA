@@ -24,9 +24,9 @@ public class SingleTon {
    private static SingleTon instance;
 
    // Step 3: Public static method to get the instance
-   public static SingleTon getInstatnce(){
+   public static SingleTon getInstance(){
        if(instance == null){  // Create an instance only if it doesn't already exist
-           instance = new SingleTon(); // here i can call constructor because both in same file.
+           instance = new SingleTon(); // here I can call constructor because both in same file.
        }
        return instance;  // Return the single instance
    }

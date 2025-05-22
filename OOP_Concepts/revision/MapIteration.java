@@ -1,13 +1,10 @@
 package OOP_Concepts.revision;
 
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 public class MapIteration {
     public static void main(String[] args) {
-        HashMap<Integer, String> map = new HashMap<Integer, String>();
+        HashMap<Integer, String> map = new HashMap<>();
         map.put(1, "A");
         map.put(32, "B");
         map.put(3232, "C");
@@ -18,6 +15,12 @@ public class MapIteration {
         // 1 way to iterate on maps
 
         Set<Integer> keys = map.keySet(); // converting keys in map to set to iterate on them
+         map.forEach((key, value) -> System.out.println(key + ": " + value));
+         Iterator<Integer> itr = keys.iterator();
+         while(itr.hasNext()){
+             int key = itr.next();
+             System.out.println(key);
+         }
         System.out.println(keys);
         System.out.println("++++++++++++++++++");
         Collection<String> values = map.values(); // converting values to collection to iterate on them
@@ -26,6 +29,9 @@ public class MapIteration {
         // 2 way to iterate on maps
 
         Set<Map.Entry<Integer , String>> entry = map.entrySet(); // return set with key,value pair Object.
+        for(Map.Entry<Integer,String> pair : entry){
+            System.out.println(pair.getKey());
+        }
         System.out.println(entry);
 
     }

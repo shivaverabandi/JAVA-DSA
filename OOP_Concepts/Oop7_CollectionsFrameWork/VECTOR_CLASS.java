@@ -6,7 +6,7 @@ import java.util.Vector;
 
 public class VECTOR_CLASS {
     public static void main(String[] args) {
-        // Vector are thread safe and slower than ArrayList. One thread can acces object at a time
+        // Vector are thread safe and slower than ArrayList. One thread can access object at a time
         List<Integer> vec = new Vector<>();
         vec.add(34);
         vec.add(21);
