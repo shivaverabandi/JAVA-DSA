@@ -10,7 +10,9 @@ interface Calculator {
 
 public class Main {
     public static void main(String[] args) {
-        Calculator c = (a,b) -> a + b;
+        Calculator c = (a,b) ->{
+             return a + b;
+        };
         System.out.println(c.calc(10, 20));
     }
 }

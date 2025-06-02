@@ -26,7 +26,7 @@ class CustomSort implements Comparator<Article> {
         // if equal 0,
         // if a1 less than a2 no change
         // if a1 greater than a2 swap.
-        return Integer.compare(0,a1.title.compareTo(a2.title));
+        return a1.title.compareTo(a2.title);
     }
 }
 public class ObjectSorting {
@@ -44,7 +44,7 @@ public class ObjectSorting {
 //        List<Integer> list = Arrays.asList(1,345,23,4,-3343);
 //        Collections.sort(list);
 //
-////      CustomSort sortInfo = new CustomSort();
+//        CustomSort sortInfo = new CustomSort();
 //        Collections.sort(articles, new CustomSort());
 //        System.out.println(articles);
 //
@@ -56,8 +56,8 @@ public class ObjectSorting {
 //
 //        Collections.sort(articles, (a,b) -> Integer.compare(0,a.title.compareTo(b.title)));
 
-//        articles.sort( ( a , b) -> a.title.compareTo(b.title));
-//        System.out.println(articles);
+        articles.sort(( a , b) -> a.title.compareTo(b.title));
+        System.out.println(articles);
 
 //        articles.sort(Comparator.comparing(article -> article.title));
 //        System.out.println(articles);

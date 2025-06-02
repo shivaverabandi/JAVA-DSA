@@ -9,10 +9,10 @@ public class ImmutableClass extends Exception {
     }
 
 }
-class child extends ImmutableClass{
+class Child extends ImmutableClass{
 
     public void child(){
-        ImmutableClass child = new child();
+        ImmutableClass child = new Child();
         child.method();
     }
 }
