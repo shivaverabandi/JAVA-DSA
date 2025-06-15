@@ -26,3 +26,5 @@
 	<li>All the elements of <code>arr2</code> are <strong>distinct</strong>.</li>
 	<li>Each&nbsp;<code>arr2[i]</code> is in <code>arr1</code>.</li>
 </ul>
+<li>Time : O(2*N) (two passes) one for count freq of elements in arr1 and one for add in ans array</li>
+<li> Space : O(1) constant ==> 1001 length array to store count</li>
