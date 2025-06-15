@@ -16,3 +16,5 @@
 	<li><code>1 &lt;= words[i].length &lt;= 100</code></li>
 	<li><code>words[i]</code> consists of lowercase English letters.</li>
 </ul>
+<li>Time Complexity is : O(n * k) where n is length of array, k is length of strings in array</li>
+<li>Space Complexity is : O(1). length of auxillary array is 26 only.</li>
