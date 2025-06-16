@@ -1,4 +1,5 @@
 class Solution {
+    // Naive Solution
     public int heightChecker(int[] heights) {
         int len = heights.length;
         int []expected = Arrays.copyOf(heights, len);
