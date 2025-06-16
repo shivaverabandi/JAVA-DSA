@@ -45,3 +45,10 @@ All indices match.
 	<li><code>1 &lt;= heights.length &lt;= 100</code></li>
 	<li><code>1 &lt;= heights[i] &lt;= 100</code></li>
 </ul>
+<li>
+	<h6>Naive/Brute Force</h6>
+	<li>Time Complexity : O(NlogN)</li>
+	<li>Space : O(N) </li>
+</li>
+
+
