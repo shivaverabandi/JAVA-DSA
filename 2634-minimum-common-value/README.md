@@ -27,3 +27,15 @@
 	<li><code>1 &lt;= nums1[i], nums2[j] &lt;= 10<sup>9</sup></code></li>
 	<li>Both <code>nums1</code> and <code>nums2</code> are sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+<ul>
+	<h6>Approach 1: Nested Loop</h6>
+	<li>Time: O(N*M)</li>
+	<li>Space: O(1)</li>
+	<h6>Approach 2: Hashing</h6>
+	<li>Time: O(N + M)</li>
+	<li>Space: O(N)</li>
+	<h6>Approach 3: 2 - Pointer</h6>
+	<li>Time: O(N + M)</li>
+	<li>Space: O(1)</li>
+</ul>
