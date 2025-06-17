@@ -1,4 +1,17 @@
 class Solution {
+    // Approach 1 
+    public int getCommon(int[] nums1, int[] nums2) {
+        HashSet<Integer> set = new HashSet<>();
+        for(int num : nums1){
+            set.add(num);
+        }
+        for(int num : nums2){
+            if(set.contains(num))
+                return num;
+        }
+        return -1;
+    }
+    // Approach 2
     public int getCommon(int[] nums1, int[] nums2) {
         int l1 = nums1.length;
         int l2 = nums2.length;
