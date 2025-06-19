@@ -12,7 +12,7 @@ class Solution {
                     return false;
                 }
             }else{
-                if(smap.containsValue(tchar)){
+                if(smap.containsValue(tchar)){ // This containsValue() --> takes O(n) time for check..!
                     return false;
                 }
                 smap.put(schar,tchar);
