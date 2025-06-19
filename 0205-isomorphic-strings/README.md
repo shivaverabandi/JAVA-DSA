@@ -50,3 +50,12 @@
 	<li><code>t.length == s.length</code></li>
 	<li><code>s</code> and <code>t</code> consist of any valid ascii character.</li>
 </ul>
+
+<ul>
+	<h6>Approach 1 : </h6>
+	<li>Time : o(N^2)</li> <P>Due to containsValue() used in appraoch 1</P>
+	<li>Space : o(1)</li>
+	<h6>Approach 2 : </h6>
+	<li>Time : o(N)</li>
+	<li>Space : o(1)</li>
+</ul>
