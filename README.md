@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0838-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
