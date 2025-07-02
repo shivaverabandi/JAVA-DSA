@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
