@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
+| [2058-concatenation-of-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2058-concatenation-of-array) |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0838-design-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
