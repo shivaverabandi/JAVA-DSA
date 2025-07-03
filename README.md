@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 ## Sorting
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
