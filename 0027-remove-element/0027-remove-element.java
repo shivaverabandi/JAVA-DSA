@@ -9,7 +9,7 @@ class Solution {
         }
         return k;
     }
-    // Appraoch 2 . small tricky, but this is impressive
+    // Appraoch 2 . slight tricky, but this is impressive
     public int removeElement(int[] nums, int val) {
         int idx = 0;
         int n = nums.length;
