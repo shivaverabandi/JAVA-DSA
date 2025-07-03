@@ -1,8 +1,10 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
-        int len = strs.length;
-        String str1 = strs[0];
+
+        String str1 = strs[0]; // take 0th string from array
+
         StringBuilder ans = new StringBuilder();
+        
         for(int idx = 0; idx < str1.length(); idx++){
             boolean flag = true;
             // check that curr char is present in remaining strings in array
