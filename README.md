@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
@@ -30,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
