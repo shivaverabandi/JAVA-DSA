@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2058-concatenation-of-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Counting Sort
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
 |  |
 | ------- |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
