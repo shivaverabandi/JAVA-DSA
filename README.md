@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 ## Hash Function
 |  |
@@ -102,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
@@ -111,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -120,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
