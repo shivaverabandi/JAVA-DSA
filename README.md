@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2058-concatenation-of-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2058-concatenation-of-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Counting Sort
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Quickselect
 |  |
 | ------- |
