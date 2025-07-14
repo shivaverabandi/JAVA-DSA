@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0838-design-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
