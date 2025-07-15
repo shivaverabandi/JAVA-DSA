@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
 | [3396-valid-word](https://github.com/shivaverabandi/JAVA-DSA/tree/master/3396-valid-word) |
 ## Sorting
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1217-relative-sort-array) |
@@ -99,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -113,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Merge Sort
@@ -123,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
 | [0948-sort-an-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
