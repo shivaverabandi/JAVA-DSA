@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0205-isomorphic-strings) |
 | [1044-find-common-characters](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1044-find-common-characters) |
+| [3396-valid-word](https://github.com/shivaverabandi/JAVA-DSA/tree/master/3396-valid-word) |
 ## Sorting
 |  |
 | ------- |
