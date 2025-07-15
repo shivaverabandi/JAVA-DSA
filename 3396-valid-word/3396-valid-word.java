@@ -6,9 +6,8 @@ class Solution {
             return false;
         }
 
-        int countConsonent = 0;
-        int countVowel = 0;
-        int digits = 0;
+        boolean countConsonent = false;
+        boolean countVowel = false;
 
         for(int idx = 0; idx < n; idx++){
             Character ch = word.charAt(idx);
@@ -16,14 +15,12 @@ class Solution {
             if(ch == '@' || ch == '#' || ch == '$'){
                 return false;
             }else if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u'){
-                countVowel++;
-            }else if(Character.isDigit(ch)){
-                digits++;
-            }else{
-                countConsonent++;
+                countVowel = true ;
+            }else if(!Character.isDigit(ch)){
+                countConsonent = true ;
             }
         }
 
-        return ( countConsonent > 0 && countVowel > 0 ) ? true : false; 
+        return ( countConsonent && countVowel  ) ? true : false; 
     }
 }
