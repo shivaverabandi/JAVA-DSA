@@ -12,23 +12,23 @@ class Solution {
         // step 2 : build min_heap based on freq, if freq is equal then lexical order
 
         PriorityQueue<String> minHeap = new PriorityQueue<>( (a,b) -> {
-            if(freq.get(a) == freq.get(b)){
-                return b.compareTo(a);
+            if(freq.get(a) == freq.get(b)){ // sort based on lexical order if count is equal
+                return b.compareTo(a); // here compare b with a ? because at final we have to add them in lexical order. so here we sort them in reverse order for the words which have same freq count.
             }else{
-                return freq.get(a) - freq.get(b);
+                return freq.get(a) - freq.get(b); // sort based on count of word
             }
         });
-
-        for(String s : freq.keySet()){
+        // O(N*LogK)
+        for(String s : freq.keySet()){ // O(N)
             minHeap.offer(s);
-            if(minHeap.size() > k){
-                minHeap.poll();
+            if(minHeap.size() > k){ 
+                minHeap.poll(); // O(LogK) 
             }
         }
 
-        List<String> ans = new LinkedList<>();
+        List<String> ans = new LinkedList<>(); // K*LogK
         while(!minHeap.isEmpty()){
-            ans.addFirst(minHeap.poll());
+            ans.addFirst(minHeap.poll()); // to add at first we use linked list. It takes O(1) time to add at first of list
         }
         return ans;
     }
