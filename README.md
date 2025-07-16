@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2058-concatenation-of-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shivaverabandi/JAVA-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/shivaverabandi/JAVA-DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 <!---LeetCode Topics End-->
