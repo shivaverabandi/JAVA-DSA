@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
+| [0303-range-sum-query-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0692-top-k-frequent-words) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0816-design-hashset) |
 | [0838-design-linked-list](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0838-design-linked-list) |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
