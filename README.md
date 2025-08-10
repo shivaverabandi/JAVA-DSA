@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0035-search-insert-position) |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
 ## Linked List
