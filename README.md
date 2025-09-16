@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0304-range-sum-query-2d-immutable) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0189-rotate-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/shivaverabandi/JAVA-DSA/tree/master/2634-minimum-common-value) |
 ## Binary Search
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
