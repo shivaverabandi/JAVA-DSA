@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0197-rising-temperature) |
+| [0584-find-customer-referee](https://github.com/shivaverabandi/JAVA-DSA/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1153-product-sales-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shivaverabandi/JAVA-DSA/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
